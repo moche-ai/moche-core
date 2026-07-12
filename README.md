@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/moche-ai/moche-native/main/brand/hero.gif" alt="moche — the omni model small enough to be yours" width="100%">
+<img src="https://raw.githubusercontent.com/moche-ai/moche-core/main/brand/hero.gif" alt="moche — the omni model small enough to be yours" width="100%">
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 - ✅ **★G1 기준선 완주 — 첫 프롬스크래치 모델** — 0.49B(depth12) · 우리 64k 토크나이저 · EN(ClimbMix)+KO(fineweb-edu) · bf16 · Muon · WSD · **트릭 0개**. val bpb **0.910**(min 0.899) · CORE 0.1317(영어벤치, vocab 2배라 낮음) · KO 유창성 5.0/10. 어닐링 효과로 "한글 창제=세종대왕"·"수도=서울" 등 한국 사실 습득. 이후 모든 비교의 **원점**. → 🤗 [moche-ai/moche-native-g1-0.5b](https://huggingface.co/moche-ai/moche-native-g1-0.5b)
 - 🔄 **G2 승격전 진행 중** — 아키텍처·최적화 트릭을 각각 독립 ablation으로 오디션 (원점 대비 크기추세 검증)
 
-<img src="https://raw.githubusercontent.com/moche-ai/moche-native/main/brand/fertility.png" width="100%">
+<img src="https://raw.githubusercontent.com/moche-ai/moche-core/main/brand/fertility.png" width="100%">
 
 > 토크나이저는 이미 완성된 자산 — 한국어 **5.0× (GPT-2 대비)**. 모델 학습 상태와 무관한 확정 승리.
 
@@ -49,7 +49,7 @@
 - **기준선 먼저**: 트릭은 프록시에서 크기 추세(0.1→0.3→0.9B)로 검증된 것만 승격. 잘 튜닝된 바닐라가 원점.
 - **셀프호스팅·저비용**: 자체 하드웨어, 공개 데이터, 오픈소스 스택. 상업화 목적 아님.
 
-<img src="https://raw.githubusercontent.com/moche-ai/moche-native/main/brand/anatomy.png" width="100%">
+<img src="https://raw.githubusercontent.com/moche-ai/moche-core/main/brand/anatomy.png" width="100%">
 
 ## 스택
 
